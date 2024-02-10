@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/RisPNG">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RisPNG&theme=transparent&hide_border=true&radius=4.5" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RisPNG&theme=react-dark&hide_border=true&radius=4.5" />
   </a>
   <a href="https://github.com/RisPNG">
       <img src="https://github-readme-stats.vercel.app/api?username=RisPNG&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
