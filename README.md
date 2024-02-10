@@ -13,14 +13,14 @@
     </a>
 </p>
 
-<p align="center">
+<p style="display: flex;justify-content: center;align-items: center;">
   <a href="https://github.com/RisPNG">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RisPNG&theme=react-dark&hide_border=true&radius=4.5" />
   </a>
   <a href="https://github.com/RisPNG">
       <img src="https://github-readme-stats.vercel.app/api?username=RisPNG&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
   </a>
-  <a href="https://github.com/RisPNG" vertical-align="top">
+  <a href="https://github.com/RisPNG">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RisPNG&theme=transparent&hide_progress=true&hide_border=true" />
   </a>
 </p>
