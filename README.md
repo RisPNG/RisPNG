@@ -22,7 +22,7 @@
   </a>
   <a href="https://github.com/RisPNG">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RisPNG&theme=transparent" />
-      <img src="https://github-readme-stats.vercel.app/api?username=RisPNG&theme=transparent" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RisPNG&theme=transparent\&include_all_commits=true" />
   </a>
 </p>
 
