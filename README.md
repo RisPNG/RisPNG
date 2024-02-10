@@ -13,7 +13,7 @@
     </a>
 </p>
 
-<p style="display: flex;justify-content: center;align-items: center;">
+<p align="center" style="display: flex;justify-content: center;align-items: center;">
   <a href="https://github.com/RisPNG">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RisPNG&theme=react-dark&hide_border=true&radius=4.5" />
   </a>
