@@ -18,12 +18,13 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RisPNG&theme=transparent" />
   </a>
   <a href="https://github.com/RisPNG">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RisPNG&hide_border=true&card_width=338&theme=transparent" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RisPNG&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
   </a>
   <a href="https://github.com/RisPNG">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RisPNG&theme=transparent" />
+  </a>
+  <a href="https://github.com/RisPNG">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RisPNG&theme=transparent&hide_progress=true&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api?username=RisPNG&show_icons=true&theme=transparent&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true" />
   </a>
 </p>
 
