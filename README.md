@@ -29,11 +29,7 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/RisPNG">
-    <img src="https://komarev.com/ghpvc/?username=RisPNG&color=blue&style=flat)" />
-  </a>
-</p>
+<h2 align="center">Profile Views</h2>
 <p align="center">
     <a  href="https://github.com/RisPNG">
         <img src="https://count.getloli.com/get/@@RisPNG?theme=asoul" />
