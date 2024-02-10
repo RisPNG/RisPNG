@@ -29,4 +29,7 @@
   <a href="https://github.com/RisPNG">
     <img src="https://komarev.com/ghpvc/?username=RisPNG&color=blue&style=flat)" />
   </a>
+    <a>
+        <img src="https://count.getloli.com/get/@@RisPNG?theme=rule34" />
+    </a>
 </p>
