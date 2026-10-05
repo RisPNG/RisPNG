@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/RisPNG">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RisPNG&theme=react-dark&hide_border=true&radius=4.5" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=RisPNG&theme=radical" />
   </a>
 </div>
 <div align="center">
